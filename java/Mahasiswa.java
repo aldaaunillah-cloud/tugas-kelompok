@@ -1,6 +1,6 @@
 public class Mahasiswa {
     // Atribut mahasiswa
-    private String namaMahasiswa = "Alda Aunillah";
+    private String namaMahasiswa = "Alda Aunillah "; // alda love hafiz
     private String nim = "2403050";
     private String namaProdi = "Teknik Informatika";
     private String jenjang = "D3";

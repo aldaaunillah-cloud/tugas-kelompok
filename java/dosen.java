@@ -1,4 +1,4 @@
-public class Dosen {
+public class Dosen { // 
     // Atribut dosen
     private String namaDosen;
     private String nip;
